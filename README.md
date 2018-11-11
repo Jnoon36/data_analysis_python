@@ -1,1 +1,1 @@
-Analyzing pay data from a BLS csv data set to determine if and where gender wage gaps occur. 
+The so called gender wage gap has been making headlines for years. There are many claims of women being underpaid for doing the same job as a man. I took data from the BLS, contained in the CSV file, and used python (and more specifically pandas) to analyze the data. A picture starts to emerge. There does seem to be evidence to support the claim. However, total hours worked or experience/performance were not variables included in the data set, which could have been useful.
